@@ -55,3 +55,23 @@
 </body>
 
 </html>
+
+
+
+
+
+    var X : 변수 설정. "X라는 변수는 ~을 의미해"라는 뜻
+
+template : 요소 설정. 백틱(` `)을 사용해 HTML 내부의 내용으로 요소 선언이 가능함.
+
+querySelector : HTML에서 변수 끌어오기.
+
+addEventListner : document에서 특정요소(id, class, tag 등)의 event(click, keyup 등)를 등록할 때 사용.
+
+$ : 백틱(` `)을 사용하여 변수를 그 자리에서 만듬. ${변수}등으로 나타내서 가독성이 뛰어남.
+
+value : 선정 값 끌어오기.
+
+insertAdjacentHTML : 기존 값을 유지하면서 내가 새롭게 입력한 값을 선택 위치에 배치함.
+
+beforeend : 타겟 요소의 마지막 부분을 뜻함. 이를 통해 마지막에 보낸 말풍선이 가장 아래쪽에 위치하도록 함.
